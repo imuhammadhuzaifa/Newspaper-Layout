@@ -1,0 +1,54 @@
+h1, h4{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.heading1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.article{
+    border-right: solid black;
+    padding: 0px 100px 0px 60px;
+}
+
+.para1{
+    border-right: solid black;
+    padding: 0px 20px 0px 20px;
+
+}
+
+.para2{
+    padding: 0px 30px 0px 30px;
+}
+.heading2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 90px;
+}
+
+.article2{
+    border-right: solid black;
+    padding: 0px 20px 0px 30px;
+    /* text-align: center; */
+}
+
+img{
+    padding: 0px 20px 0px 0px;
+}
+
+figcaption{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para3{
+    border-right: solid black;
+    padding: 0px 20px 0px 20px;
+}
+
+.para4{
+    padding: 0px 30px 0px 30px;
+}
